@@ -1,2 +1,2 @@
 # SynchScreen
-SynchScreen is a simple Dashboard witch with I plaunched in the area of Monitoring.
+SynchScreen is a simple Dashboard whitch with I plaunched in the area of Monitoring.
